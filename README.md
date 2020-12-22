@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on RD (Raia Drogasil)
-- 🌱 I’m currently learning K8, Telemetry and all Devops stuff
+- 🌱 I’m currently learning K8, telemetry and all devops stuff
 - 👯 I’m looking to collaborate on social projects where people can learn code.
 - 🤔 I’m looking for help with all my fails
 - 💬 Ask me anything about Java
 - 📫 How to reach me: LinkedIn, Instagram and Facebook. Just search for my name, I don't think there are many ones around ;)
-- 😄 Pronouns: BurBola
+- 😄 Pronouns: BurBs, BurBes, BurBola or Nelson (:
 - ⚡ Fun fact: I used to teach ballroom dancing
