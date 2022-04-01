@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on RD (Raia Drogasil)
-- 🌱 I’m currently learning K8, telemetry and all devops stuff
+- 🔭 I’m currently working on Green Light
+- 🌱 I’m currently learning AWS and all cloud stuff
 - 👯 I’m looking to collaborate on social projects where people can learn code.
 - 🤔 I’m looking for help to correct all my fails
 - 💬 Ask me anything about Java
