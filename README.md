@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Green Light
+- 🔭 I’m currently looking for a position.
 - 🌱 I’m currently learning AWS and all cloud stuff
 - 👯 I’m looking to collaborate on social projects where people can learn code.
 - 🤔 I’m looking for help to correct all my fails
