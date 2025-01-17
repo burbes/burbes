@@ -1,8 +1,7 @@
 - 🔭 I’m currently looking for a position.
-- 🌱 I’m currently learning ChatGPT stuff
-- 👯 I’m looking to collaborate on social projects where people can learn code.
+- 🌱 I’m currently building my product.
 - 🤔 I’m looking for help to correct all my fails
-- 💬 Ask me anything about Java
+- 💬 Ask me anything about Java/Kotlin and IA
 - 📫 How to reach me: LinkedIn, Instagram and Facebook. Just search for my name, I don't think there are many ones around ;)
 - 😄 Pronouns: BurBs, BurBes, BurBola or Nelson (:
 - ⚡ Fun fact: I used to teach ballroom dancing
